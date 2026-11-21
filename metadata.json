@@ -1,0 +1,6 @@
+{
+  "name": "Smart Masar – مسار الذكي",
+  "description": "AI-Powered Recruitment, Talent Assessment & Selection Platform — Connecting Talent with the Right Opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

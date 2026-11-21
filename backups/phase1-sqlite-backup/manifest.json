@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-11-21T16:49:11.697Z",
+  "method": "SQLite Online Backup API (better-sqlite3 db.backup) — includes all committed WAL pages",
+  "source_files": {
+    "dbBytes": 4096,
+    "walBytes": 3328992
+  },
+  "backup_sqlite": {
+    "path": "backups/phase1-sqlite-backup/smart_masar.backup.db",
+    "bytes": 380928,
+    "sha256": "ad06c8ec83a997386edcf0f21e1d37a67ab2f07f6a4d39290e08afa25b4aa2f4",
+    "pragma_integrity_check": "ok"
+  },
+  "org_json_snapshot": {
+    "path": "backups/phase1-sqlite-backup/org_structure_snapshot.json",
+    "bytes": 58317,
+    "sha256": "c313a8e61a0556c6d60df2a9e07cd4dc859ce961c48d389464dfd39713ef6762",
+    "org_audit_logs_count": 15
+  },
+  "verified_table_counts": {
+    "applications": 3,
+    "assessment_assignments": 3,
+    "assessment_attempts": 3,
+    "assessment_center_configs": 1,
+    "assessment_center_schedules": 3,
+    "assessment_items": 12,
+    "assessment_templates": 1,
+    "assessor_evaluations": 3,
+    "audit_logs": 40,
+    "campaigns": 1,
+    "candidates": 3,
+    "competencies": 10,
+    "evaluation_reports": 3,
+    "jobs": 1,
+    "org_departments": 13,
+    "org_levels": 5,
+    "org_positions": 12,
+    "org_raci": 4,
+    "org_relationships": 15,
+    "org_role_permissions": 7,
+    "org_user_roles": 4,
+    "organization_settings": 1,
+    "sessions": 19,
+    "users": 4
+  }
+}
